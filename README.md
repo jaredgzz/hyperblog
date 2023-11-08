@@ -9,5 +9,6 @@ En este curso veremos de todo:
 * Buenas practicas
 * Malas practicas
 * Prácticas
+* Creado por el increíble David
 
 Y para que esto no se tome muy enserio así como te debes de tomar la vida **Este redme.md es solo un caliz, una broma, un chascarrillo**. Es un ejemplo y eso para enseñar que si le se a este despapaye. [Pongo un link para que tambien veas que puedo poner links](http://https://github.com/jaredgzz/hyperblog/tree/main "Pongo un link para que tambien veas que puedo poner links")
